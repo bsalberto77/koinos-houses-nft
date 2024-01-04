@@ -1,4 +1,4 @@
-# Kondor Houses (NFT collection)
+# Koinos Houses (NFT collection)
 
 Discover the Enchanting World of Koinos Houses!
 
