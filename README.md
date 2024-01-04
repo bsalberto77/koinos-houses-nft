@@ -1,6 +1,8 @@
-# Kondor Elementus (NFT collection)
+# Kondor Houses (NFT collection)
 
-The goal is to create an NFT collection that celebrates the first upgrade in Koinos network led by an external collaborator. This update symbolizes the Koinos ability to adapt, transform and evolve, surpassing even the visions of its creators and the expectations of any individual developer. Thanks to the infinite scalability of Koino, each user has the poer to take advantage of true decentralization to freely create whatever they want, without restrictions, using the network according to their own needs.
+Discover the Enchanting World of Koinos Houses!
+
+Embark on an extraordinary journey with our inaugural collection of miniatures, unveiling the magical world nestled in the heart of the Koinos ecosystem. This exclusive collection features 75 spectacular homes, each with its unique style and architecture, intricately designed based on the structure of the KOINOS logo. Be mesmerized by the exquisite detail and artistry of each creation. Dive into this architectural marvel and find the home that doesn't just speak to you, but sings to your soul! Explore, dream, and select the dwelling that resonates with your deepest emotions. Welcome to the world of Koinos Houses, where each miniature masterpiece awaits its story.
 
 # Compilation
 
