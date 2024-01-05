@@ -1,6 +1,0 @@
-**/assembly/proto/**
-**/assembly/*.boilerplate.ts
-**/assembly/index.ts
-build
-/assembly
-/koinosbox-proto
